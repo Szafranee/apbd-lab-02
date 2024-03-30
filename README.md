@@ -1,4 +1,4 @@
-# APBD_Lab_02
+# apbd-lab-02
 
 ### Lecture pdf: [\*click\*](https://pejot-my.sharepoint.com/:b:/g/personal/s28102_pjwstk_edu_pl/EYkxjOdg-25ChhocJQbsdf0BaZ0XpPQ6LHbMiKFtk1r9cw?e=PF1Iso)
 
